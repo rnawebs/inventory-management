@@ -82,7 +82,7 @@ const Sidebar = () => {
         }`}
       >
         <Image
-          src="https://s3-inventory7gen.s3.us-east-1.amazonaws.com/logo.png"
+          src="https://s3-inventory7gen.s3.us-east-1.amazonaws.com/7Gen-logo.png"
           alt="7gen-logo"
           width={27}
           height={27}
